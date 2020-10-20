@@ -1,0 +1,1 @@
+[('/hello/', <class 'apps.test.test.HelloWorld'>)]

@@ -1,0 +1,7 @@
+PyMySQL==0.9.3
+sentry-sdk==0.16.1
+SQLAlchemy==1.3.12
+oslo @ git+https://github.com/cuteboy9201/oslo.git
+redis==3.0.0
+requests==2.22.0
+tornado==5.1.1
